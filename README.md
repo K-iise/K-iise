@@ -2,7 +2,7 @@
 
 ## :pushpin: Contact
 - 이메일: kimyungi1008@gmail.com
-- 블로그: [https://velog.io/@tuise/posts](https://velog.io/@tuise/posts)
+- 블로그: [https://tory4953.tistory.com](https://tory4953.tistory.com)
 - 깃헙: [https://github.com/K-iise](https://github.com/K-iise)
 
 </br>
