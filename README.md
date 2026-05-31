@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/우아한테크코스-8기%20백엔드-FFC81E?style=flat-square&logoColor=black"/>
+</p>
+
+<p align="center">
   <a href="mailto:kimyungi1008@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
@@ -31,6 +35,10 @@
 
 - **정보처리기사** · 한국산업인력공단
 - **SQLD** · 한국데이터산업진흥원
+
+### 🎓 우아한테크코스 8기 백엔드
+
+진행 중인 미션과 학습 기록은 👉 [**woowacourse-8th**](https://github.com/K-iise/woowacourse-8th)
 
 ### 📊 GitHub Activity
 
