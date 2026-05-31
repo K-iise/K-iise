@@ -4,9 +4,6 @@
   꾸준히 배우고 기록하는 개발자를 지향합니다.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/우아한테크코스-8기%20백엔드-FFC81E?style=flat-square&logoColor=black"/>
-</p>
 
 <p align="center">
   <a href="mailto:kimyungi1008@gmail.com">
@@ -38,7 +35,7 @@
 
 ### 🎓 우아한테크코스 8기 백엔드
 
-진행 중인 미션과 학습 기록은 👉 [**woowacourse-8th**](https://github.com/K-iise/woowacourse-8th)
+진행 했던 미션과 학습 기록은 👉 [**woowacourse-8th**](https://github.com/K-iise/woowacourse-8th)
 
 ### 📊 GitHub Activity
 
