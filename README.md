@@ -1,50 +1,49 @@
-# 김윤기 포트폴리오
+<h1 align="center">안녕하세요, 김윤기입니다 👋</h1>
 
-## :pushpin: Contact
-- 이메일: kimyungi1008@gmail.com
-- 블로그: [https://tory4953.tistory.com](https://tory4953.tistory.com)
-- 깃헙: [https://github.com/K-iise](https://github.com/K-iise)
+<p align="center">
+  꾸준히 배우고 기록하는 개발자를 지향합니다.
+</p>
 
-</br>
-
-## :pushpin: Certifications
-- **정보처리기사** | 한국산업인력공단
-- **SQLD (SQL 개발자)** | 한국데이터산업진흥원
-
-</br>
-
-## :pushpin: Projects
-### 1. [Pill-Dispenser](https://github.com/K-iise/Pill-Dispenser)
-> **알약 분출 하드웨어 및 소프트웨어 개발 (캡스톤 디자인 프로젝트)** > **개발 기간**: 2024.03.13 ~ 2024.06.12  
->  
-> **기술 스택**:  
-> Java 8 / Oracle / XML / Apache Tomcat  
-> JSP / Android Studio  
->
-> [:link: 프로젝트 상세 설명](https://github.com/K-iise/Pill-Dispenser) 참고
+<p align="center">
+  <a href="mailto:kimyungi1008@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://tory4953.tistory.com">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
+  </a>
+  <a href="https://solved.ac/tuise/">
+    <img src="https://img.shields.io/badge/solved.ac-1f8ce6?style=flat-square&logo=verizon&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 2. [Table-Kiosk](https://github.com/K-iise/Table-Kiosk)
-> **테이블 소프트웨어 개발 (팀 프로젝트)** > **개발 기간**: 2024.08.04 ~ 2024.08.24  
->  
-> **기술 스택**:  
-> Java SE 22 / JavaFX / Oracle / Javascript  
->  
-> [:link: 프로젝트 상세 설명](https://github.com/K-iise/Table-Kiosk) 참고
+### 🛠 Tech Stack
 
----
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+</p>
 
-### 3. [DreamCatcher](https://github.com/K-iise/DreamCatcher)
-> **JSP 기반의 펀딩 웹 사이트 개발 (개인 프로젝트)** > **개발 기간**: 2024.09.23 ~ 2024.10.14  
->  
-> **기술 스택**:  
-> JSP / Java / JQuery / Apache Tomcat / Oracle  
-> HTML / CSS / Javascript  
->  
-> [:link: 프로젝트 상세 설명](https://github.com/K-iise/DreamCatcher) 참고
+<sub>현재 학습 중 📚</sub>
 
----
+### 📜 Certifications
 
-## :pushpin: Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tuise)](https://solved.ac/tuise/)
+- **정보처리기사** · 한국산업인력공단
+- **SQLD** · 한국데이터산업진흥원
+
+### 📊 GitHub Activity
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=K-iise&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/K-iise/K-iise/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+### 🧩 Algorithm
+
+<a href="https://solved.ac/tuise/">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tuise"/>
+</a>
