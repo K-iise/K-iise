@@ -4,7 +4,7 @@
 
 우아한테크코스 8기 백엔드 **토리**
 
-<a href="https://tory4953.tistory.com"><img src="https://img.shields.io/badge/Blog-FF5A4A?style=flat-square&logo=tistory&logoColor=white"/></a> <a href="https://solved.ac/tuise/"><img src="https://img.shields.io/badge/solved.ac-17CE3A?style=flat-square"/></a> <a href="mailto:kimyungi1008@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://spectrum-polyester-11c.notion.site/DFGG-LoL-3fc62f447cd38073b325c98785609bf3"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a> <a href="https://tory4953.tistory.com"><img src="https://img.shields.io/badge/Blog-FF5A4A?style=flat-square&logo=tistory&logoColor=white"/></a> <a href="https://solved.ac/tuise/"><img src="https://img.shields.io/badge/solved.ac-17CE3A?style=flat-square"/></a> <a href="mailto:kimyungi1008@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 <br/>
 
@@ -44,3 +44,5 @@
 - 📥 **데이터 수집** · Riot API 기반 수집·정규화·통계 파이프라인 설계 및 운영
 - 🚦 **호출 제한 대응** · 429 재시도, DB 우선 조회, 참가자 티어 추가 조회 생략으로 API 호출량 절감
 - 🤖 **추천 모델** · LightGBM Learning-to-Rank 모델 기반 v4 추천 API 구현
+
+👉 [역할과 기술적 의사결정 상세 보기](https://spectrum-polyester-11c.notion.site/DFGG-LoL-3fc62f447cd38073b325c98785609bf3)
