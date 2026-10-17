@@ -1,54 +1,32 @@
-<h1 align="center">안녕하세요, 김윤기입니다 👋</h1>
+## 김윤기 · Backend Developer
 
-<p align="center">
-  꾸준히 배우고 기록하는 개발자를 지향합니다.
-</p>
-
-
-<p align="center">
-  <a href="mailto:kimyungi1008@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://tory4953.tistory.com">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
-  </a>
-  <a href="https://solved.ac/tuise/">
-    <img src="https://img.shields.io/badge/solved.ac-1f8ce6?style=flat-square&logo=verizon&logoColor=white"/>
-  </a>
-</p>
+우아한테크코스 8기 백엔드 · [Blog](https://tory4953.tistory.com) · [solved.ac](https://solved.ac/tuise/) · kimyungi1008@gmail.com
 
 ---
 
-### 🛠 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-</p>
-
-<sub>현재 학습 중 📚</sub>
-
-### 📜 Certifications
-
-- **정보처리기사** · 한국산업인력공단
-- **SQLD** · 한국데이터산업진흥원
-
 ### 🎓 우아한테크코스 8기 백엔드
 
-진행 했던 미션과 학습 기록은 👉 [**woowacourse-8th**](https://github.com/K-iise/woowacourse-8th)
+| 레벨 | 학습 주제 | 미션 |
+|---|---|---|
+| 1 | Java · 객체지향 설계 | 블랙잭, 장기 (DB 적용) |
+| 2 | Spring 웹 애플리케이션 | 방탈출 예약 관리 · 사용자 예약 · 예약 대기, 인증과 인가 |
+| 3 | 팀 프로젝트 | DFGG (아래) |
+| 4 | Spring 내부 동작 직접 구현 | HTTP 서버(Tomcat) · 동시성 확장, @MVC 프레임워크, JDBC 라이브러리 |
 
-### 📊 GitHub Activity
+**테코톡** "Rate Limit을 만나면 백엔드는 어떻게 동작해야 할까?" 발표 (DFGG의 Riot API 호출 제한 대응 경험)
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=K-iise&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+전체 미션과 리뷰 기록은 👉 [woowacourse-8th](https://github.com/K-iise/woowacourse-8th)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/K-iise/K-iise/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+---
 
-### 🧩 Algorithm
+### 🎮 [DFGG](https://github.com/woowacourse-teams/2026-dfgg) · [dfgg.pro](https://www.dfgg.pro/)
 
-<a href="https://solved.ac/tuise/">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tuise"/>
-</a>
+내 게임의 10명 조합을 보고 아이템 순서와 이유를 추천하는 LoL 아이템 추천 서비스 · 백엔드
+
+- Riot API 기반 데이터 수집·정규화·통계 파이프라인 설계 및 운영 (에메랄드 이상 5개 티어 순환 수집)
+- 엄격한 호출 제한 안에서 수집하도록 429 재시도, DB 우선 조회, 참가자 티어 추가 조회 생략으로 API 호출량 절감
+- LightGBM Learning-to-Rank 모델 기반 v4 추천 API 구현
+
+---
+
+**자격증** 정보처리기사 · SQLD
