@@ -44,9 +44,3 @@
 - 📥 **데이터 수집** · Riot API 기반 수집·정규화·통계 파이프라인 설계 및 운영
 - 🚦 **호출 제한 대응** · 429 재시도, DB 우선 조회, 참가자 티어 추가 조회 생략으로 API 호출량 절감
 - 🤖 **추천 모델** · LightGBM Learning-to-Rank 모델 기반 v4 추천 API 구현
-
-<br/>
-
-<div align="center">
-  <sub>📜 정보처리기사 · SQLD</sub>
-</div>
